@@ -39,3 +39,16 @@ x509up_u*
 
 # --- Misc ---
 .DS_Store
+# --- Editors ---
+*.swp
+*.swo
+*.bak
+
+# --- Credentials & proxies ---
+x509up_u*
+*.pem
+*.key
+*.crt
+
+# --- Misc ---
+.DS_Store

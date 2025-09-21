@@ -1,0 +1,41 @@
+# --- Build & caches (most live one level up, but safe to ignore anyway) ---
+/bin/
+/lib/
+/obj/
+/tmp/
+/external/
+/.SCRAM/
+tmp/
+*.o
+*.a
+*.so
+*.dylib
+*.d
+*.pcm
+
+# --- Big outputs & scratch ---
+*.root
+*.rootmap
+*.lhe
+*.hepmc
+*.json
+*.log
+
+# --- Python bytecode ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Editors ---
+*.swp
+*.swo
+*.bak
+
+# --- Credentials & proxies ---
+x509up_u*
+*.pem
+*.key
+*.crt
+
+# --- Misc ---
+.DS_Store

@@ -1,0 +1,3 @@
+first number indicates the Suu mass-point and the second indicates the chi mass-point
+All of these files are taken from:
+https://cmsweb.cern.ch/das/request?view=list&limit=50&instance=prod%2Fglobal&input=dataset%3D%2FSuuToChiChiToHTHT*_TuneCP5_13TeV-madgraph-pythia8%2F*UL18*%2FMINIAODSIM

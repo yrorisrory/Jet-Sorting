@@ -1,0 +1,15 @@
+hadd btagging_efficiencyMap_QCDMC2000toInf_2017.root `xrdfsls -u /store/user/ecannaer/QCD_HT2000toInf_TuneCP5_13TeV-madgraphMLM-pythia8/CreateEfficiencyMapHists_QCDMC2000toInf_2017/230830_191002/0000 | grep '\.root'`
+hadd btagging_efficiencyMap_QCDMC1500to2000_2017.root `xrdfsls -u /store/user/ecannaer/QCD_HT1500to2000_TuneCP5_13TeV-madgraphMLM-pythia8/CreateEfficiencyMapHists_QCDMC1500to2000_2017/230830_190945/0000 | grep '\.root'`
+hadd btagging_efficiencyMap_QCDMC1500to2000_2018.root `xrdfsls -u /store/user/ecannaer/QCD_HT1500to2000_TuneCP5_13TeV-madgraphMLM-pythia8/CreateEfficiencyMapHists_QCDMC1500to2000_2018/230824_004955/0000 | grep '\.root'`
+hadd btagging_efficiencyMap_QCDMC2000toInf_2018.root `xrdfsls -u /store/user/ecannaer/QCD_HT2000toInf_TuneCP5_13TeV-madgraphMLM-pythia8/CreateEfficiencyMapHists_QCDMC2000toInf_2018/230829_172556/0000 | grep '\.root'`
+hadd btagging_efficiencyMap_TTbarMC_2017_0.root `xrdfsls -u /store/user/ecannaer/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/CreateEfficiencyMapHists_TTbarMC_2017/230830_191018/0000 | grep '\.root'`
+hadd btagging_efficiencyMap_TTbarMC_2017_1.root `xrdfsls -u /store/user/ecannaer/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/CreateEfficiencyMapHists_TTbarMC_2017/230830_191018/0001 | grep '\.root'`
+hadd btagging_efficiencyMap_TTbarMC_2017_2.root `xrdfsls -u /store/user/ecannaer/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/CreateEfficiencyMapHists_TTbarMC_2017/230830_191018/0002 | grep '\.root'`
+hadd btagging_efficiencyMap_TTbarMC_2018_0.root `xrdfsls -u /store/user/ecannaer/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/CreateEfficiencyMapHists_TTbarMC_2018/230824_005014/0000 | grep '\.root'`
+hadd btagging_efficiencyMap_TTbarMC_2018_1.root `xrdfsls -u /store/user/ecannaer/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/CreateEfficiencyMapHists_TTbarMC_2018/230824_005014/0001 | grep '\.root'`
+hadd btagging_efficiencyMap_TTbarMC_2018_2.root `xrdfsls -u /store/user/ecannaer/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/CreateEfficiencyMapHists_TTbarMC_2018/230824_005014/0002 | grep '\.root'`
+hadd btagging_efficiencyMap_TTbarMC_2018_3.root `xrdfsls -u /store/user/ecannaer/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/CreateEfficiencyMapHists_TTbarMC_2018/230824_005014/0003 | grep '\.root'`
+hadd btagging_efficiencyMap_TTbarMC_2018_4.root `xrdfsls -u /store/user/ecannaer/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/CreateEfficiencyMapHists_TTbarMC_2018/230824_005014/0004 | grep '\.root'`
+hadd btagging_efficiencyMap_TTbarMC_2018_5.root `xrdfsls -u /store/user/ecannaer/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/CreateEfficiencyMapHists_TTbarMC_2018/230824_005014/0005 | grep '\.root'`
+hadd btagging_efficiencyMap_TTbarMC_2018_6.root `xrdfsls -u /store/user/ecannaer/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/CreateEfficiencyMapHists_TTbarMC_2018/230824_005014/0006 | grep '\.root'`
+hadd btagging_efficiencyMap_TTbarMC_2018_7.root `xrdfsls -u /store/user/ecannaer/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/CreateEfficiencyMapHists_TTbarMC_2018/230824_005014/0007 | grep '\.root'`

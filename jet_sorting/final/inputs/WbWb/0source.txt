@@ -1,0 +1,2 @@
+two number filenames are again for the Suu and chi masspoints and files are sourced from:
+https://cmsweb.cern.ch/das/request?view=list&limit=50&instance=prod%2Fglobal&input=dataset%3D%2FSuuToChiChiToWBWB*_TuneCP5_13TeV-madgraph-pythia8%2F*UL18*%2FMINIAODSIM
